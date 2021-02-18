@@ -1,0 +1,1 @@
+package fr.hokanosekai.managers;public class PlayerManager {}

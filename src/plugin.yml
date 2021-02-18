@@ -1,0 +1,1 @@
+name: Jumpsmain: fr.hokanosekai.Jumpsauthor: Hokanosekaiversion: 1.0commands:  addcheckpoint:    description: Ajouté un checkpoint    aliases:      - addcp      - acp  createjump:    description: creer un nouveau jump    aliases:      - jump      - cj  removecheckpoint:    description: enlève un checkpoint    aliases:      - rmcp      - rcp
